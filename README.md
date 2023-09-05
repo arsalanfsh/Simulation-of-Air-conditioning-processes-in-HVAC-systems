@@ -1,2 +1,2 @@
 # Simulation-of-Air-conditioning-processes-in-HVAC-systems
-In this project, a set of scripts is implemented for performing the calculations of air-conditioning processes that take place in HVAC systems. These calculation include: 1) Mixing process  2) Coil load calculation, given the supply conditions  3) Coil load calculations, given the room’s sensible and latent load along with the recirculation rate. 
+In this project, a set of scripts is implemented for performing the calculations of air-conditioning processes that take place in HVAC systems. These calculations include: 1) Mixing process  2) Coil load calculation, given the supply conditions  3) Coil load calculations, given the room’s sensible and latent load along with the recirculation rate. 
